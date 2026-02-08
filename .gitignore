@@ -1,0 +1,14 @@
+./dataset/*
+./output/*
+./logs/*
+./checkpoint/*
+*json
+*zip
+*pyc
+*mp4
+*avi
+*jpg
+*xml
+*txt
+*xml~
+dataset/personpath22/annotation/anno_amodal_2022.json
